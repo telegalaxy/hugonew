@@ -12,13 +12,13 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🤣"
-subtitle = "Telegalaxy"
+emoji = "🍥"
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "//q2.qlogo.cn/headimg_dl?dst_uin=2541647562&spec=100"
+src = "http://q2.qlogo.cn/headimg_dl?dst_uin=2541647562&spec=100"
 
 [article]
 math = false
