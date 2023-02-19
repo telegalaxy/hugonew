@@ -13,12 +13,12 @@ lastUpdated = "Jan 19, 2023 15:04 MST"
 
 [sidebar]
 emoji = "🤡"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "大道至简"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "/img/avatar.png"
 
 [article]
 math = false
