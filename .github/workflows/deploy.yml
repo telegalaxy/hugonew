@@ -15,10 +15,12 @@ jobs:
 
             - name: Cache Hugo resources
               uses: actions/cache@v2
+              env:
+                  cache-name: cache-hugo-resources
               with:
                   path: resources
-                  key: "cache-hugo-resources"
-}
+                  key: ${{ env.cache-name }}
+
             - uses: actions/setup-go@v2
               with:
                   go-version: "^1.17.0"
