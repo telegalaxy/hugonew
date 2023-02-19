@@ -4,11 +4,11 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
-published = "Feb 19, 2022"
+published = "Feb 19, 2023"
 lastUpdated = "Jan 19, 2023 15:04 MST"
 
 [sidebar]
