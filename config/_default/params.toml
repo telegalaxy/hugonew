@@ -18,7 +18,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "//q2.qlogo.cn/headimg_dl?dst_uin=2541647562&spec=100"
 
 [article]
 math = false
