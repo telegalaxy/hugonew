@@ -17,8 +17,8 @@ subtitle = "大道至简"
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "/img/avatar.png"
+local = false
+src = "//q2.qlogo.cn/headimg_dl?dst_uin=2541647562&spec=100"
 
 [article]
 math = false
